@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		0502E2B228387A3100DA4943 /* HistoryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0502E2B128387A3100DA4943 /* HistoryView.swift */; };
+		0502E2B42838A4D800DA4943 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 0502E2B32838A4D800DA4943 /* README.md */; };
 		05078403283484D600641E83 /* SpeechRecognizer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05078402283484D600641E83 /* SpeechRecognizer.swift */; };
 		051300952831396F00BCA002 /* History.swift in Sources */ = {isa = PBXBuildFile; fileRef = 051300942831396F00BCA002 /* History.swift */; };
 		051300982831411D00BCA002 /* ScrumStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 051300972831411D00BCA002 /* ScrumStore.swift */; };
@@ -38,6 +39,7 @@
 
 /* Begin PBXFileReference section */
 		0502E2B128387A3100DA4943 /* HistoryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HistoryView.swift; sourceTree = "<group>"; };
+		0502E2B32838A4D800DA4943 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		05078402283484D600641E83 /* SpeechRecognizer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpeechRecognizer.swift; sourceTree = "<group>"; };
 		051300942831396F00BCA002 /* History.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = History.swift; sourceTree = "<group>"; };
 		051300972831411D00BCA002 /* ScrumStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumStore.swift; sourceTree = "<group>"; };
@@ -157,6 +159,7 @@
 		05B2D22D2828C30100DA2178 = {
 			isa = PBXGroup;
 			children = (
+				0502E2B32838A4D800DA4943 /* README.md */,
 				05B2D2382828C30100DA2178 /* Scrumdinger */,
 				05B2D2372828C30100DA2178 /* Products */,
 			);
@@ -252,6 +255,7 @@
 			files = (
 				05410A322830B53400EEF103 /* ding.wav in Resources */,
 				05B2D2412828C30200DA2178 /* Preview Assets.xcassets in Resources */,
+				0502E2B42838A4D800DA4943 /* README.md in Resources */,
 				05B2D23E2828C30200DA2178 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
